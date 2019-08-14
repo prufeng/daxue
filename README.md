@@ -1,2 +1,3 @@
-# daxue
-《大学》诵读版
+
+<ruby>大学<rp>（</rp><rt>dà xué</rt><rp>）</rp></ruby>
+===
