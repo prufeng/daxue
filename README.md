@@ -17,6 +17,8 @@
 
 <ruby>欲修其身者，先正其心，<rp>（</rp><rt>yù xiū qí shēn zhě xiān zhèng qí xīn</rt><rp>）</rp></ruby>
 
+<ruby>欲正其心者，先诚其意，<rp>（</rp><rt>yù zhèng qí xīn zhě  xiān chéng qí yì</rt><rp>）</rp></ruby>
+
 <ruby>欲诚其意者，先治其知，致知在格物。<rp>（</rp><rt>yù chéng qí yì zhě xiān zhì qí zhī zhì zhī zài gé wù</rt><rp>）</rp></ruby>
 
 <ruby>物格而后知至，知至而后意诚，<rp>（</rp><rt>wù gé ér hòu zhī zhì zhī zhì ér hòu yì chéng</rt><rp>）</rp></ruby>
